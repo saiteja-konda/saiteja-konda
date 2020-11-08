@@ -7,7 +7,7 @@ I'm Saiteja Konda
 - 🤔  I’m looking for help with 
 - 💬  Ask me about probably anything!
 - 📫  How to reach me: kondasaitej@gmail.com
-- 🌎  Check out my personal Blog (https://saiteja-dev.netlify.app/)
+- 🌎  Check out my personal Blog (https://www.kondasaiteja.tech/)
 - 😄  Pronouns: He/His
 - ⚡  My Quote Line: Fíngalo hasta que llegues
 - ⚡  Fun fact:  technologies that i'm working with are mostly self taught 
